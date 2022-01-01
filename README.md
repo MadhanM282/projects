@@ -1,5 +1,4 @@
 # projects
-projects during Masai
 
 
 
