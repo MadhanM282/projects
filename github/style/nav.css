@@ -1,0 +1,82 @@
+.nav{
+            height: 50px;
+            background:#161b22;
+            width: 100%;
+            display: flex;
+            color: white;
+            /* margin: auto; */
+            /* justify-content: space-between; */
+        }
+        /* div{
+            border:1px solid red;
+        } */
+        body{
+           
+            margin: 0px;
+            background: #0d1117;
+        }
+        .options{
+            display: flex;
+            width: fit-content;
+            margin-right:57%;
+            /* border: 1px solid red; */
+            font-weight: 500;
+            font-style: normal;
+
+
+            /* justify-content: space-between; */
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji";;
+            
+        }
+        a,li{
+
+            display: inline;
+            margin: auto;
+            
+            margin-right: 10px;
+            font-size: 11.5px;
+        
+        }
+        a>img{
+            width: 30px;
+            
+        }
+        .logo{
+            margin: auto;
+            margin-left: 30px;
+        }
+        
+        .search{
+            /* border: 1px solid; */
+            margin-right: 10px;
+            
+            
+        }
+        
+        .search>input{
+            margin-top: 15px;
+            width: 200px;
+            background: #0d1117;;
+            border: 1px solid #3a424b;
+            border-radius: 5px;
+            padding: 5px 0px;
+            color: white;
+        }
+
+        .profile{
+            margin-right: 35px;
+
+            width: 10px;
+            /* margin-left: 30px; */
+
+
+        }
+        #image{
+            width: 30px;
+            border-radius: 50%;
+            margin-top: 9px;
+        }
+        a{
+            text-decoration: none;
+            color: white;
+        }
