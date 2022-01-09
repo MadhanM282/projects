@@ -1,7 +1,4 @@
-#  Weather           
-#  YouTube  
-#  Recepy
-#  Github Nav & searching Repo
+
 
 
 
