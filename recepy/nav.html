@@ -38,7 +38,6 @@
 
     // appending display ---->
 
-
     let input = document.querySelector("#input")
 
     async function recipy(){
@@ -47,8 +46,6 @@
         console.log('data', data);
 
         localStorage.setItem("random",JSON.stringify(data.meals));
-
-        // random(data)
 
         setTimeout(function(){
             window.location.href="day.html"

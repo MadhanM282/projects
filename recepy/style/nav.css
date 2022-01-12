@@ -72,10 +72,11 @@
            
             color: black;
             border-radius: 10px;
+            cursor: pointer;
             
         }
         .body>div:hover{
-             box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+             box-shadow: rgba(27, 27, 27, 0.287) 0px 10px 30px;
         }
         .body>div>img{
             width: 100%;

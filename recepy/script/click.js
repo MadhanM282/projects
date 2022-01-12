@@ -103,4 +103,4 @@ function appendclick(data,location,loc){
 
 
 
-export default appendclick
+export default appendclick 
